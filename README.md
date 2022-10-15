@@ -1,0 +1,2 @@
+# Good-Idea
+First Code
